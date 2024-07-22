@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/passgen/static/css/main.39f9ecb9.css",
-    "main.js": "/passgen/static/js/main.6db6fe0d.js",
+    "main.js": "/passgen/static/js/main.825f78ac.js",
     "static/js/453.8dac947a.chunk.js": "/passgen/static/js/453.8dac947a.chunk.js",
     "static/media/notification.svg?s3g3t9": "/passgen/static/media/notification.5d0158671dd860c714c4.svg",
     "static/media/notification.eot": "/passgen/static/media/notification.3657084dc0419605a91c.eot",
@@ -9,11 +9,11 @@
     "static/media/notification.ttf?s3g3t9": "/passgen/static/media/notification.c5d9251ea82e42f75381.ttf",
     "index.html": "/passgen/index.html",
     "main.39f9ecb9.css.map": "/passgen/static/css/main.39f9ecb9.css.map",
-    "main.6db6fe0d.js.map": "/passgen/static/js/main.6db6fe0d.js.map",
+    "main.825f78ac.js.map": "/passgen/static/js/main.825f78ac.js.map",
     "453.8dac947a.chunk.js.map": "/passgen/static/js/453.8dac947a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.39f9ecb9.css",
-    "static/js/main.6db6fe0d.js"
+    "static/js/main.825f78ac.js"
   ]
 }
